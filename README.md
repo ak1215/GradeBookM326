@@ -1,2 +1,2 @@
 # GradeBookM326
-Here you can fin our code and two documentation.
+Here you can find our code and two documentation.
